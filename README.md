@@ -1,3 +1,4 @@
+# React Unsplash Demo
 This application captures a user's search query using React's state and prop system, and then searches the Unsplash API (https://unsplash.com/developers) for images and returns images matching that query.
 - - - 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
