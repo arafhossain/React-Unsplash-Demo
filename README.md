@@ -1,5 +1,5 @@
 # React Unsplash Demo
-This application captures a user's search query using React's state and prop system, and then searches the Unsplash API (https://unsplash.com/developers) for images and returns images matching that query.
+This application captures a user's search query using React's state and prop system, and then searches the Unsplash API (https://unsplash.com/developers) for images and returns matching images in a grid column format.
 
 Currently hosted on gh pages: https://arafhossain.github.io/React-Unsplash-Demo/
 - - - 
